@@ -15,11 +15,11 @@ Bu çalışma, **yapay zeka/öğrenme kullanmadan**, yalnızca **klasik görünt
 Aşağıdaki yer tutucuları kendi görsellerinle değiştir (dosyaları `media/` klasörüne koy):
 
 <p align="center">
-  <img src="media/ornek1.png" alt="Ham X-ray ve Ön-işleme" width="46%" />
-  <img src="media/ornek2.png" alt="Kenar Çıkartımı & Desen Kodlama" width="46%" />
+  <img src="media/onisleme.png" alt="Ham X-ray ve Ön-işleme" width="46%" />
+  <img src="media/ornek-kenar.png" alt="Kenar Çıkartımı & Desen Kodlama" width="46%" />
 </p>
 
 <p align="center">
-  <img src="media/ornek3.png" alt="Gauss Piramidi Üzerinde Desen Analizi" width="46%" />
-  <img src="media/ornek4.png" alt="Anahtar Nokta Eşleştirme ve Nihai Adaylar" width="46%" />
+  <img src="media/piramit.png" alt="Gauss Piramidi Üzerinde Desen Analizi" width="46%" />
+  <img src="media/örnek-1.png" alt="Anahtar Nokta Eşleştirme ve Nihai Adaylar" width="46%" />
 </p>
