@@ -12,7 +12,6 @@ Bu çalışma, **yapay zeka/öğrenme kullanmadan**, yalnızca **klasik görünt
 > Not: Bu proje **araştırma/öğrenme** amaçlıdır; klinik karar desteği yerine geçmez.
 
 ## Örnek Çıktılar
-Aşağıdaki yer tutucuları kendi görsellerinle değiştir (dosyaları `media/` klasörüne koy):
 
 <div align="center">
   <p>
