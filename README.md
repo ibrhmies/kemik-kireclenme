@@ -14,12 +14,18 @@ Bu çalışma, **yapay zeka/öğrenme kullanmadan**, yalnızca **klasik görünt
 ## Örnek Çıktılar
 Aşağıdaki yer tutucuları kendi görsellerinle değiştir (dosyaları `media/` klasörüne koy):
 
-<p align="center">
-  <img src="media/onisleme.png" alt="Ham X-ray ve Ön-işleme" width="46%" />
-  <img src="media/ornek-kenar.png" alt="Kenar Çıkartımı & Desen Kodlama" width="46%" />
-</p>
+<div align="center">
+  <p>
+    <img src="media/onisleme.png" alt="Ham X-ray ve Ön-işleme" style="width:80%; max-width:900px; display:block; margin:0 auto;">
+  </p>
+  <p>
+    <img src="media/ornek-kenar.png" alt="Kenar Çıkartımı & Desen Kodlama" style="width:80%; max-width:900px; display:block; margin:0 auto;">
+  </p>
+  <p>
+    <img src="media/piramit.png" alt="Gauss Piramidi Üzerinde Desen Analizi" style="width:80%; max-width:900px; display:block; margin:0 auto;">
+  </p>
+  <p>
+    <img src="media/örnek-1.png" alt="Anahtar Nokta Eşleştirme ve Nihai Adaylar" style="width:80%; max-width:900px; display:block; margin:0 auto;">
+  </p>
+</div>
 
-<p align="center">
-  <img src="media/piramit.png" alt="Gauss Piramidi Üzerinde Desen Analizi" width="46%" />
-  <img src="media/örnek-1.png" alt="Anahtar Nokta Eşleştirme ve Nihai Adaylar" width="46%" />
-</p>
